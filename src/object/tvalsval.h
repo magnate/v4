@@ -34,11 +34,13 @@
 #define TV_SHOT			16	/* Ammo for slings */
 #define TV_ARROW        17	/* Ammo for bows */
 #define TV_BOLT         18	/* Ammo for x-bows */
-#define TV_BOW          19	/* Slings/Bows/Xbows */
 #define TV_DIGGING      20	/* Shovels/Picks */
 #define TV_HAFTED       21	/* Priest Weapons */
 #define TV_POLEARM      22	/* Axes and Pikes */
 #define TV_SWORD        23	/* Edged Weapons */
+#define TV_SLING		26	/* Slings */
+#define TV_BOW          27	/* Bows */
+#define TV_XBOW			28	/* Crossbows */
 #define TV_BOOTS        30	/* Boots */
 #define TV_GLOVES       31	/* Gloves */
 #define TV_HELM         32	/* Helms */

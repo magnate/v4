@@ -678,7 +678,7 @@ D:A war hammer with a very long spike.
 
 N:90:& Sling~
 G:}:u
-I:19:2
+I:26:2
 W:1:0:5:0
 A:20:1 to 100
 P:0:0:0:0:0:50:50
@@ -686,7 +686,7 @@ D:A strap of leather used to fling shots and debris.
 
 N:91:& Short Bow~
 G:}:U
-I:19:12
+I:27:12
 W:3:0:30:0
 A:20:3 to 100
 P:0:0:0:0:0:50:50
@@ -694,7 +694,7 @@ D:A bow, used to fire arrows at close range.
 
 N:92:& Long Bow~
 G:}:U
-I:19:13
+I:27:13
 W:10:0:40:0
 A:20:10 to 100
 P:0:0:0:0:0:50:75
@@ -702,7 +702,7 @@ D:A hunting weapon, used to fire arrows from afar.
 
 N:93:& Light Crossbow~
 G:}:s
-I:19:23
+I:28:23
 W:15:0:110:0
 A:20:15 to 100
 P:0:0:0:0:0:50:75
@@ -710,7 +710,7 @@ D:A small mechanical bow, used to fire bolts.
 
 N:94:& Heavy Crossbow~
 G:}:s
-I:19:24
+I:28:24
 W:30:0:200:0
 A:20:30 to 100
 P:0:0:0:0:0:50:100

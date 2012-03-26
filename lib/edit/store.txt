@@ -51,10 +51,10 @@ I:1:polearm:Battle Axe
 I:1:polearm:Lance
 I:1:polearm:Lucerne Hammer
 I:1:hafted:Club
-I:1:bow:Sling
+I:1:sling:Sling
 I:1:bow:Short Bow
 I:1:bow:Long Bow
-I:1:bow:Light Crossbow
+I:1:xbow:Light Crossbow
 I:2:shot:Sling Shot
 I:2:arrow:Arrow
 I:2:bolt:Bolt

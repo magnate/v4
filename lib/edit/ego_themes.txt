@@ -663,14 +663,14 @@ A:of Extra Might:10
 A:of Dweomercraft:0
 
 N:32:suffix:of the Haradrim
-T:bow:23:23:40 to 127
+T:xbow:23:23:40 to 127
 A:Journeyman's:1
 A:of Extra Might:10
 A:of Extra Shots:10
 A:of Durability:0
 
 N:33:suffix:of Buckland
-T:bow:2:2:40 to 127
+T:sling:2:2:40 to 127
 A:Journeyman's:1
 A:of Extra Might:8
 A:of Extra Shots:8

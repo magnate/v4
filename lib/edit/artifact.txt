@@ -1990,7 +1990,7 @@ D:songs record.
 
 
 N:126:'Cubragol'
-I:bow:Light Crossbow
+I:xbow:Light Crossbow
 W:50:25:110:50000
 A:40:50 to 127
 P:0:0d0:100:140:0
@@ -2002,7 +2002,7 @@ D:shoot bolts that blaze with flame unquenchable.
 
 
 N:127:of Umbar
-I:bow:Heavy Crossbow
+I:xbow:Heavy Crossbow
 W:60:20:200:35000
 A:25:60 to 127
 P:0:4d1:180:180:0

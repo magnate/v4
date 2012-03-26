@@ -324,6 +324,7 @@ T:hard armour:0:99:uber:10:11 to 100
 T:polearm:0:99:great:10:11 to 100
 T:sword:0:99:great:10:11 to 100
 T:hafted:0:99:great:10:11 to 100
+T:sling:0:99:great:10:25 to 100
 T:bow:0:99:great:10:25 to 100
 T:crown:0:99:uber:5:45 to 100
 
@@ -435,7 +436,9 @@ M:10:10:255
 T:hafted:0:99:good:80:1 to 100
 T:polearm:0:99:good:80:1 to 100
 T:sword:0:99:good:80:1 to 100
+T:sling:0:99:good:50:1 to 100
 T:bow:0:99:good:50:1 to 100
+T:xbow:0:99:good:50:1 to 100
 T:shot:0:99:good:50:1 to 100
 T:arrow:0:99:good:50:1 to 100
 T:bolt:0:99:good:50:1 to 100
@@ -601,7 +604,9 @@ L:50+d50:50:SLAY_UNDEAD | BRAND_POIS
 N:104:suffix:of Accuracy
 C:10d15:10d5:0
 M:100:255:255
+T:sling:0:99:great:20:5 to 100
 T:bow:0:99:great:20:5 to 100
+T:xbow:0:99:great:20:5 to 100
 T:sword:0:99:uber:10:55 to 100
 T:polearm:0:99:uber:10:55 to 100
 D:It is magically aided with unerring accuracy.
@@ -609,7 +614,9 @@ D:It is magically aided with unerring accuracy.
 N:105:suffix:of Power
 C:10d5:10d15:0
 M:255:100:255
+T:sling:0:99:great:20:10 to 100
 T:bow:0:99:great:20:10 to 100
+T:xbow:0:99:great:20:10 to 100
 T:hafted:0:99:uber:10:55 to 100
 T:polearm:0:99:uber:10:55 to 100
 D:Its power to damage is magically enhanced.
@@ -617,12 +624,16 @@ D:Its power to damage is magically enhanced.
 N:108:suffix:of Extra Might
 C:10d5:10d10:0
 L:1:0:MIGHT
+T:sling:0:99:great:10:25 to 100
 T:bow:0:99:great:10:25 to 100
+T:xbow:0:99:great:10:25 to 100
 
 N:109:suffix:of Extra Shots
 C:10d10:10d5:0
 L:1:0:SHOTS
+T:sling:0:99:uber:10:25 to 100
 T:bow:0:99:uber:10:25 to 100
+T:xbow:0:99:uber:10:25 to 100
 
 N:111:suffix:of the Nazgûl
 C:-10d10:10d10:0
@@ -822,7 +833,9 @@ C:-20:0:0
 T:hafted:0:99:bad:20:1 to 66
 T:polearm:0:99:bad:20:1 to 66
 T:sword:0:99:bad:20:1 to 66
+T:sling:0:99:bad:15:1 to 66
 T:bow:0:99:bad:15:1 to 66
+T:xbow:0:99:bad:15:1 to 66
 T:shot:0:99:bad:18:1 to 66
 T:arrow:0:99:bad:18:1 to 66
 T:bolt:0:99:bad:18:1 to 66
@@ -856,7 +869,9 @@ C:10+M80:10+M80:0:0:0:0:0
 T:hafted:0:99:good:20:6 to 100
 T:polearm:0:99:good:20:6 to 100
 T:sword:0:99:good:20:6 to 100
+T:sling:0:99:good:15:6 to 100
 T:bow:0:99:good:15:6 to 100
+T:xbow:0:99:good:15:6 to 100
 T:shot:0:99:good:15:10 to 100
 T:arrow:0:99:good:15:10 to 100
 T:bolt:0:99:good:15:10 to 100
@@ -1005,6 +1020,7 @@ T:hafted:10:99:good:20:10 to 66
 T:polearm:0:99:good:20:10 to 66
 T:sword:0:99:good:20:10 to 66
 T:bow:12:99:good:15:10 to 67
+T:xbow:12:99:good:15:10 to 67
 T:shot:0:99:good:15:10 to 66
 T:arrow:0:99:good:15:10 to 66
 T:bolt:0:99:good:15:10 to 66
