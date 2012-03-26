@@ -3515,6 +3515,8 @@ static const grouper tval_names[] =
 	{ TV_ARROW,       "arrow" },
 	{ TV_BOLT,        "bolt" },
 	{ TV_BOW,         "bow" },
+	{ TV_SLING,		  "sling" },
+	{ TV_XBOW,		  "xbow" },
 	{ TV_DIGGING,     "digger" },
 	{ TV_HAFTED,      "hafted" },
 	{ TV_POLEARM,     "polearm" },
