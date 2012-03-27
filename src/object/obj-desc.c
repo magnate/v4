@@ -178,7 +178,9 @@ static const char *obj_desc_get_basename(const object_type *o_ptr, bool aware)
 		case TV_SHOT:
 		case TV_BOLT:
 		case TV_ARROW:
+		case TV_SLING:
 		case TV_BOW:
+		case TV_XBOW:
 		case TV_HAFTED:
 		case TV_POLEARM:
 		case TV_SWORD:
